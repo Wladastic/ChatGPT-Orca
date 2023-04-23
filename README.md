@@ -13,3 +13,4 @@ I used Safari when writing those, but I think it works on all browsers...
 Most of the scripts are broken, only one works, not sure which one..
 
 
+the testgame.html was what one of the instances managed to build for me.
